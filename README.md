@@ -3,7 +3,7 @@ It detects the fatigue symptoms in drivers by their continuous eye movements and
 
 <img src ="Snaps/p4.png" width = "400">
 
-###Basic algorithm to detect the eyeposition and fatigue
+### Basic algorithm to relate the eyeposition and fatigue
 
 <img src ="Snaps/p1.PNG" width = "400">
 <img src ="Snaps/p3.PNG" width = "400">
